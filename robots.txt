@@ -3,7 +3,7 @@
 User-agent: *
 Disallow:
 # This new line has been added to demonstrate the usage of "git pull" command
-
+# This new line has been added to demonstrate the usage of "git push" command
 
 # This line has been added to demonstrate the usage of "git pull" command
 # This line has been added to demonstrate the usage of "git push" commanii
